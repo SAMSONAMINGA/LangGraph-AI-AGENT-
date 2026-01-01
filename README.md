@@ -1,4 +1,4 @@
-# LangGraph AI Agent (minimal scaffold)
+# LangGraph AI Agent 
 
 Prerequisites:
 - Python 3.10+
