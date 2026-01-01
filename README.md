@@ -19,6 +19,3 @@ Run the example agent:
 ```powershell
 python main.py
 ```
-
-Security note:
-- Do NOT commit `.env` to version control. Rotate any API keys that were accidentally exposed.
